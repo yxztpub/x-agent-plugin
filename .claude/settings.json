@@ -1,0 +1,5 @@
+{
+  "enabledPlugins": {
+    "x-agent-plugin@x-agent-plugin": true
+  }
+}

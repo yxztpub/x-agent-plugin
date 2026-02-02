@@ -1,0 +1,8 @@
+{
+  "name": "x-agent-plugin",
+  "description": "A powerful Claude plugin for agent-based automation and intelligent task execution",
+  "version": "1.0.0",
+  "author":{
+      "name": "za-wangjiahao"
+  }
+}
