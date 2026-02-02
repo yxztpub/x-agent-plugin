@@ -1,6 +1,6 @@
 ---
 name: test-case-generator
-description: 在代码实施之前使用此技能，此技能能够分析开发任务和源代码自动生成测试文档。
+description: 在代码实施之前必须使用此技能，此技能能够分析开发任务和源代码自动生成测试文档。
 ---
 
 # Test Case Generator Skill
