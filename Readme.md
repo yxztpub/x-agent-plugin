@@ -4,14 +4,14 @@
 
 ### 方法一：本地安装(推荐 适用于X线不同项目之间定开)
 ```bash
-git clone https://git.zhonganinfo.com/za-wangjiahao/x-agent-plugin.git
+git clone https://github.com/yxztpub/x-agent-plugin.git
 /plugin marketplace add ~/x-agent-plugin
 /plugin install x-agent-plugin@x-agent-plugin
 ```
 
 ### 方法二：从市场安装
 ```bash
-/plugin marketplace add https://git.zhonganinfo.com/za-wangjiahao/x-agent-plugin.git
+/plugin marketplace add https://github.com/yxztpub/x-agent-plugin.git
 /plugin install x-agent-plugin@x-agent-plugin
 ```
 # 使用方法
