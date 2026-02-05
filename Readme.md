@@ -25,3 +25,4 @@ git clone https://github.com/yxztpub/x-agent-plugin.git
    2.1.12 Error: Failed to clone marketplace repository: HTTPS authentication failed.
    2.1.23 "error": {"message": "invalid beta flag"}
 3. 开发者使用版本 2.1.22
+4. 从市场直接安装的插件会导致claude启动时自动使用git拉取marketplace，非科学上网可能导致claude启动慢问题
